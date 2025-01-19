@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**odontologiacostamedina/odontologiacostamedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/odontologiacostamedina
+├── index.html       (Página inicial)
+├── services.html    (Página de serviços)
+├── team.html        (Página da equipe)
+├── contact.html     (Página de contato)
+├── /css             (Estilos do site)
+│   └── styles.css
+├── /js              (Scripts para funcionalidades)
+│   └── scripts.js
+└── /images          (Imagens da clínica)
